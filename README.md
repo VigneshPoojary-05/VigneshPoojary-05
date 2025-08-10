@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:vigneshpoojary005@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/vigneshpoojary">💼 LinkedIn</a> •
-  <a href="https://vigneshpoojary.dev">🌐 Portfolio</a>
 </p>
 
 <div align="center">
