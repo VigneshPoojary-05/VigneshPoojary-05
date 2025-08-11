@@ -68,17 +68,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VigneshPoojary-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshPoojary-05&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VigneshPoojary-05&show_icons=true&theme=radical"/>
+   <img src="https://streak-stats.demolab.com?user=VigneshPoojary-05&theme=radical&border_radius=10"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshPoojary-05&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshPoojary-05&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </div>
+
+
+---
+
+
+
+
+
 
 ---
 
