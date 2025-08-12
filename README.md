@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="mailto:vigneshpoojary005@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/vigneshpoojary">💼 LinkedIn</a> •
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -68,55 +63,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VigneshPoojary-05&show_icons=true&theme=radical"/>
-   <img src="https://streak-stats.demolab.com?user=VigneshPoojary-05&theme=radical&border_radius=10"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VigneshPoojary-05&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+   <img src="https://streak-stats.demolab.com?user=VigneshPoojary-05&theme=radical&border_radius=10&hide_border=true"/>
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshPoojary-05&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshPoojary-05&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffc600&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
-
-
----
-
-
-
-
-
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VigneshPoojary-05&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VigneshPoojary-05&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
-
----
-
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VigneshPoojary-05&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## 💼 What I'm Working On
-
-```javascript
-const vignesh = {
-    pronouns: "he" | "him",
-    code: [JavaScript, TypeScript, HTML, CSS, Python],
-    tools: [React, Redux, Node, Express, MongoDB, Docker],
-    architecture: ["microservices", "event-driven", "design system pattern"],
-    techCommunities: {
-        coorganizer: "MERN Stack Enthusiasts",
-        speaker: "Local Tech Meetups",
-        mentor: "Open Source Contributors"
-    },
-    challenge: "I am doing the #100DaysOfCode challenge focused on React and Node.js"
-}
-```
 
 ---
 
@@ -124,18 +85,11 @@ const vignesh = {
 
 <div align="center">
   <a href="https://github.com/VigneshPoojary-05/college-wallah-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VigneshPoojary-05&repo=college-wallah-website&theme=tokyonight" alt="College Wallah Website"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VigneshPoojary-05&repo=college-wallah-website&theme=radical&hide_border=true" alt="College Wallah Website"/>
   </a>
   <a href="https://github.com/VigneshPoojary-05/netflix-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VigneshPoojary-05&repo=netflix-clone&theme=tokyonight" alt="Netflix Clone"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VigneshPoojary-05&repo=netflix-clone&theme=radical&hide_border=true" alt="Netflix Clone"/>
   </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshPoojary-05&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -158,12 +112,6 @@ const vignesh = {
   <a href="mailto:vigneshpoojary005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/vigneshpoojary" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://vigneshpoojary.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
 </div>
 
 ---
@@ -180,4 +128,4 @@ const vignesh = {
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div> 
+</div>
