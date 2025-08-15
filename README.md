@@ -1,9 +1,9 @@
 
 <div align="center">
   <h1>
-    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm" alt="Hello, I'm Vignesh Poojary" />
+    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Hi+there,+I'm" alt="Hello, I'm Vignesh Poojary" />
 
- <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Vignesh+Poojary" alt="Hello, I'm Vignesh Poojary" />
+ <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Vignesh+Poojary" alt="Hello, I'm Vignesh Poojary" />
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Developer GIF"/>
   </h1>
