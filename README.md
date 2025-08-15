@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Hi+there,+I'm" alt="Hello, I'm Vignesh Poojary" />
+    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Hi+there,+I'm" alt="Hello, I'm Vignesh Poojary" />
 
  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Vignesh+Poojary" alt="Hello, I'm Vignesh Poojary" />
 
