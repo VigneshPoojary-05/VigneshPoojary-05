@@ -62,6 +62,12 @@
 
 ## 🌟 Featured Projects
 
+## 📂 Projects
+
+<!-- PROJECTS_LIST_START -->
+<!-- PROJECTS_LIST_END -->
+
+
 <div align="center">
   <a href="https://github.com/VigneshPoojary-05/college-wallah-website">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VigneshPoojary-05&repo=college-wallah-website&theme=radical&hide_border=true" alt="College Wallah Website"/>
