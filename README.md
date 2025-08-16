@@ -1,8 +1,8 @@
 
 <div align="center">
-    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Hi+there,+I'm" alt="Hello, I'm Vignesh Poojary" />
+    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&height=50&lines=Hi+there,+I'm" alt="Hello, I'm Vignesh Poojary" />
 
- <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&duration=2800&pause=2000&delay=9000&color=00D9FF&center=true&vCenter=true&width=900&height=160&lines=Vignesh+Poojary" alt="Hello, I'm Vignesh Poojary" />
+ <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=2800&pause=2000&&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Vignesh+Poojary" alt="Hello, I'm Vignesh Poojary" />
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Developer GIF"/>
  
@@ -104,6 +104,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
