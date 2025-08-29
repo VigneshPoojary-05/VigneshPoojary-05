@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VigneshPoojary-05&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VigneshPoojary05&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
    <img src="https://streak-stats.demolab.com?user=VigneshPoojary-05&theme=radical&border_radius=10&hide_border=true"/>
 </div>
 
